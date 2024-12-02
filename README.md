@@ -75,7 +75,7 @@ This script is an educational example of how Python can be used for potentially 
 1. `close_other_browsers()`:
    - Detect the operating system.
    - Close browser processes.
-2. `open_pup_website()`:
+2. `open_website()`:
    - Open the specified URL.
 3. `show_popup()`:
    - Display the threatening message.
