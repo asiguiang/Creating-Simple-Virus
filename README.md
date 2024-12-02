@@ -59,7 +59,7 @@ This script is an educational example of how Python can be used for potentially 
 |------------------------|--------------------------------------------------------------------------------------------------|
 | `close_other_browsers` | Closes active browser processes based on the operating system.                                   |
 | `show_popup`           | Displays a pop-up dialog box with a message using `tkinter`.                                     |
-| `open_pup_website`     | Opens a specific URL in the user's default web browser using `webbrowser.open()`.                |
+| `open_website`     | Opens a specific URL in the user's default web browser using `webbrowser.open()`.                |
 
 #### **4. Platforms Supported**
 - **Windows**
